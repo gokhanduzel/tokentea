@@ -1,8 +1,8 @@
 # Token Tea
 ### Step 1: Project Setup and Initial Planning
--Define Application Features: Outline the crypto chatbot functionalities including real-time price checks, historical data access, price alerts, market trends, educational content, and price charts.
--Select a Cryptocurrency API: Choose an API like CoinGecko or CoinMarketCap that offers comprehensive cryptocurrency data.
--Setup Version Control: Initialize a Git repository to manage your project's code.
+- Define Application Features: Outline the crypto chatbot functionalities including real-time price checks, historical data access, price alerts, market trends, educational content, and price charts.
+- Select a Cryptocurrency API: Choose an API like CoinGecko or CoinMarketCap that offers comprehensive cryptocurrency data.
+- Setup Version Control: Initialize a Git repository to manage your project's code.
 ### Step 2: Environment Setup
 -Install Node.js and npm: Make sure both are installed for backend development.
 -Create Your Project Directory: Organize your project with two main subfolders: client for the React app and server for the Node.js/Express backend.
